@@ -1,9 +1,6 @@
 Joanna 
 Hello from A
-<<<<<<< HEAD
 hello from b
 Goodbye forever!
 happy thursday
-=======
 hello from b
->>>>>>> parent of 07f49e2 (happy thursday)
